@@ -22,11 +22,12 @@
 - solving problems 
 - making apps
 - applying code to education
+- applying code to art
 
 ## Education
  
 - teaching English
-- teacing Chinese
+- teaching Chinese
 - teaching coding
 - teaching art
 
