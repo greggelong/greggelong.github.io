@@ -17,7 +17,7 @@
 - 楷书
 - 行书
 
-## Coding in Python
+## Coding in Python and Prolog
  
 - solving problems 
 - making apps
